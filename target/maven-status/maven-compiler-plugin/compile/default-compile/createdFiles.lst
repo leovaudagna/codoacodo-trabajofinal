@@ -1,0 +1,9 @@
+com\proyectofinaloradores\controller\EliminarOradorController.class
+com\proyectofinaloradores\dto\Orador.class
+com\proyectofinaloradores\controller\AgregarOradorController.class
+com\proyectofinaloradores\herencia\Persona.class
+com\proyectofinaloradores\dao\OradorDAO.class
+com\proyectofinaloradores\controller\ListadoOradorController.class
+com\proyectofinaloradores\controller\ListadoOradorControllerEdicion.class
+com\proyectofinaloradores\controller\EditarOradorController.class
+com\proyectofinaloradores\connection\Conexion.class

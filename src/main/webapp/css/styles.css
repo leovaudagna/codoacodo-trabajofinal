@@ -1,0 +1,54 @@
+.footer {
+    margin-top: 30px;
+    width:100%;
+    padding: 30px;
+    background-color: #232323;
+    color: white;
+    text-align: center;
+}
+
+
+.footer p {
+    margin: 0;
+    padding: 0;
+}
+
+.footer a {
+    text-decoration : none;
+}
+
+i.fa-brands {
+    padding-right: 10px;
+}
+
+
+.customLink > a{
+  text-decoration : none;
+  color:#232323;
+}
+
+#navbar {
+    margin-top: 40px;
+}
+
+#circleIcon {
+  width : 60px;
+  height:60px;
+  line-height:60px;
+  border:2px dotted #232323;
+  border-radius:100%;
+  text-align:center
+}
+
+#div-img {
+    height:650px;
+    background:url('../assets/imagen edit 2.jpg') no-repeat;
+    background-position:center;
+    background-size:cover;
+}
+
+#boton-editar:hover {
+    cursor: pointer;
+}
+
+
